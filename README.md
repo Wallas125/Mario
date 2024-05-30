@@ -13,4 +13,8 @@
  <h2 align="Center">Sobre o Projeto</h2>
  <p align="Center"> Site criado especialmente para comerciantes e empreendedores de e-commerce que desejam expandir seu leque de clientes. Nossa plataforma oferece uma solução sofisticada e prática, ideal para quem busca um site fácil de usar, mas que não abre mão da elegância e funcionalidade.
 
-Nosso objetivo é proporcionar uma experiência intuitiva para que você possa focar no que realmente importa: o crescimento do seu negócio. Com ferramentas avançadas e um design moderno, nossa plataforma facilita a gestão do seu comércio online, permitindo que você alcance novos públicos e aumente suas vendas de maneira eficiente.</p>
+   Nosso objetivo é proporcionar uma experiência intuitiva para que você possa focar no que realmente importa: o crescimento do seu negócio. Com ferramentas avançadas e um design moderno, nossa plataforma facilita a gestão do seu comércio online, permitindo que você alcance novos públicos e aumente suas vendas de maneira eficiente.</p>
+   <br>
+   <img src="https://github.com/Wallas125/Mario-Bros/blob/main/img/Desktop-logo.jpg?raw=true"/>
+
+
